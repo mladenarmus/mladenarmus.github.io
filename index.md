@@ -10,12 +10,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-theme: jekyll-theme-cyman
-title:Welcome to the Mladen's homepage
-description: homework for cs-hu-250 class
-# Header 1
-## Header 2
-### Header 3
+
+# This is header 1
+## This is header 2
+### This is header 3
 
 - Bulleted
 - List
